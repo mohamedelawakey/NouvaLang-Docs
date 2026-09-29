@@ -68,4 +68,9 @@ We welcome contributions from the community! Check out [CONTRIBUTING.md](CONTRIB
 ---
 
 ## 📜 License
-Documentation and tutorials are licensed under the MIT License. For compiler and engine licensing, refer to the [NouvaLang License](https://github.com/mohamedelawakey/NouvaLang/blob/main/LICENSE).
+> [!IMPORTANT]
+> This project uses a **Custom License**.
+> - The **Compiler Source Code & Documentation** are strictly **NON-COMMERCIAL**.
+> - **Programs built using NouvaLang** can be used/sold commercially with attribution (e.g., *"Built using NouvaLang"*).
+>
+> Please read the full [LICENSE](LICENSE) file for complete terms.
