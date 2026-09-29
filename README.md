@@ -62,13 +62,8 @@ The documentation website is organized into structured, easy-to-follow learning 
 
 ---
 
-## 🤝 Contributing to Documentation
-
-Found a typo or want to improve explanations? Pull Requests are warmly welcomed!
-
-1. Fork this repository.
-2. Edit files inside the `docs/` folder.
-3. Open a Pull Request.
+## 🤝 Contributing
+We welcome contributions from the community! Check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ---
 
